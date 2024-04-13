@@ -1,0 +1,29 @@
+{
+  "name": "bra34convert",
+  "version": "1.0.0",
+  "description": "bra34convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lethihuyenn/bra34convert.git"
+  },
+  "keywords": [
+    "bra34convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "lethihuyenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lethihuyenn/bra34convert/issues"
+  },
+  "homepage": "https://github.com/lethihuyenn/bra34convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
